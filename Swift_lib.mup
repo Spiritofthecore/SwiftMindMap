@@ -1,0 +1,425 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Swift Library",
+      "id": 1,
+      "attr": {
+        "position": [
+          -652,
+          -54,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "UI",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "Charts",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "Helps build chart UI faster",
+                  "id": "47.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "2": {
+              "title": "lottie",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "Make native animation from After Effects file",
+                  "id": "48.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "3": {
+              "title": "TextFieldEffects",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "Make Text Field UI and animation",
+                  "id": "49.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "4": {
+              "title": "MessageKit",
+              "id": 10,
+              "ideas": {
+                "1": {
+                  "title": "Make Chat App UI",
+                  "id": "50.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "5": {
+              "title": "CalendarFS",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "Make callendar UI faster",
+                  "id": "51.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "6": {
+              "title": "IQKeyboardManager",
+              "id": 12,
+              "ideas": {
+                "1": {
+                  "title": "Make keyboard automatically scroll view when focus text fields",
+                  "id": "52.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "7": {
+              "title": "SkeletonView",
+              "id": 13,
+              "ideas": {
+                "1": {
+                  "title": "Make loading animation faster",
+                  "id": "53.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Data",
+          "id": 27,
+          "ideas": {
+            "1": {
+              "title": "Google Places",
+              "id": 28,
+              "ideas": {
+                "1": {
+                  "title": "Provides google places info",
+                  "id": "54.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "2": {
+              "title": "Google Map",
+              "id": 29,
+              "ideas": {
+                "1": {
+                  "title": "Provides google maps",
+                  "id": "55.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            }
+          }
+        },
+        "-1": {
+          "title": "Network",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "AlamoreFire",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "HTTP Networking easier",
+                  "id": "56.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "2": {
+              "title": "ObjectMapper",
+              "id": 20,
+              "ideas": {
+                "1": {
+                  "title": "Parse Object",
+                  "id": "57.3a15.85b9b6d81-8109.26b20196f",
+                  "ideas": {}
+                }
+              }
+            },
+            "3": {
+              "title": "JWTDecode",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "Decode JWT key",
+                  "id": "59.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "4": {
+              "title": "SocketIO",
+              "id": 22,
+              "ideas": {
+                "1": {
+                  "title": "Make asyncronous connection with server",
+                  "id": "60.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "5": {
+              "title": "WebRTC",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "Make peer connection to stream or chat",
+                  "id": "61.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            },
+            "6": {
+              "title": "twilio",
+              "id": 24,
+              "ideas": {
+                "1": {
+                  "title": "platform for making streaming apps",
+                  "id": "62.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            }
+          }
+        },
+        "-2": {
+          "title": "Structure",
+          "id": 30,
+          "ideas": {
+            "1": {
+              "title": "RxSwift",
+              "id": 32
+            },
+            "2": {
+              "title": "PromiseKit",
+              "id": 33,
+              "ideas": {
+                "1": {
+                  "title": "simplify asynchronous programming",
+                  "id": "64.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Swift Native",
+      "id": "35.3a15.85b9b6d81-8109.26b20196f",
+      "attr": {
+        "position": [
+          486,
+          -112,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "UIKit",
+          "id": "37.3a15.85b9b6d81-8109.26b20196f"
+        },
+        "21": {
+          "title": "GCDispatch",
+          "id": "39.3a15.85b9b6d81-8109.26b20196f",
+          "ideas": {
+            "1": {
+              "title": "DispatchGroup",
+              "id": "82.3a15.85b9b6d81-8109.26b20196f"
+            },
+            "2": {
+              "title": "DispatchQueue",
+              "id": "83.3a15.85b9b6d81-8109.26b20196f",
+              "ideas": {
+                "1": {
+                  "title": "main",
+                  "id": "84.3a15.85b9b6d81-8109.26b20196f",
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "global",
+                  "id": "86.3a15.85b9b6d81-8109.26b20196f",
+                  "ideas": {
+                    "1": {
+                      "title": "User-interactive",
+                      "id": "88.3a15.85b9b6d81-8109.26b20196f"
+                    },
+                    "2": {
+                      "title": "User-initiated",
+                      "id": "90.3a15.85b9b6d81-8109.26b20196f"
+                    },
+                    "3": {
+                      "title": "Utility",
+                      "id": "91.3a15.85b9b6d81-8109.26b20196f"
+                    },
+                    "4": {
+                      "title": "Background",
+                      "id": "92.3a15.85b9b6d81-8109.26b20196f"
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "DispatchSemaphore",
+              "id": "94.3a15.85b9b6d81-8109.26b20196f",
+              "ideas": {
+                "1": {
+                  "title": "value",
+                  "id": "96.3a15.85b9b6d81-8109.26b20196f"
+                },
+                "2": {
+                  "title": "signal",
+                  "id": "97.3a15.85b9b6d81-8109.26b20196f"
+                },
+                "3": {
+                  "title": "wait",
+                  "id": "98.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            }
+          }
+        },
+        "22": {
+          "title": "View life cycle",
+          "id": "46.3a15.85b9b6d81-8109.26b20196f",
+          "attr": {
+            "icon": {
+              "url": "https://lh3.googleusercontent.com/-KHKOAYQiC_Y/X1TFqMJY7MI/AAAAAAAAAWM/7r_55TxxF90kCmuMFqfKCenoqBy9fht6ACE0YBhgLKrUEAL1OcqxqD6eoLCT75J5YOdgszgRDqVr7pGURJgMf5tAjtXq-oVL0QJ99a40aMkmPtgSsSjVgOzdE7Olgtm3CdkyzgxTNEvQRpnpjSxF-0bk92Qs69WT4_AOnqlPGEXQw1EPIjFfagT5KOd1jhVck5m_HHF5p-40JJTw-LSMnzEjU8f4QUowgWSBEyOcQv4uRQ_CIvz74BVOcEh1fLXvpkFwYWH7NkC_3oFG0Szpsd5dsKsQqn1UNBOX4zsEULTTDtxLpgW_l4mYaaRkEtqB-ANJL0OjRIWFtc7zo8YRnjA4k8w8CdLKwTzMMOpitVFOQ_M_sn-NZmE-MhZe7jK53tSupRCJLW-4_obzybTHPoqsoT_sV9rvKLpaCUGO5kJTHoGE7aDeJO-XGogRc5UC7xB6u6wJzHBw9lznVvEmc2gMuFutYTCGLRzm7jH9oidJu8aydVIfwnM5ogYQw_mywKu3Ssj7G0dSqyYC8Y2r0hk0zEwxAJbBLv7W-z7hF3K6msTJcP7kfezpod_GAzoK6-eFQYG-eRdJox8nZbArljQUhsiHhrnWAjKScRUxLiuVlVFb35LHWDj7NDO_UeEpwZCC2e5w7N3sYFanoJwGsuRvIiVURcd1OLBn6U9Eq9ih1h7kfE89ZkcN9LOksHULEEZKYpFsfAoVfzOUf3hEQrDH0tJ6K5VdR7cUVugV5oVOzI8TRvn67wY7c9xrpq0QjUeFa4J5tqOuqJGUsx1k-Hp0DcxgNCzClj9P6BQ/1_jb1Y17gwQCRi2XCKy7_QHQ.png",
+              "width": 350,
+              "height": 332,
+              "position": "left",
+              "metaData": {
+                "remoteUrl": "https://lh3.googleusercontent.com/-KHKOAYQiC_Y/X1TFqMJY7MI/AAAAAAAAAWM/7r_55TxxF90kCmuMFqfKCenoqBy9fht6ACE0YBhgLKrUEAL1OcqxqD6eoLCT75J5YOdgszgRDqVr7pGURJgMf5tAjtXq-oVL0QJ99a40aMkmPtgSsSjVgOzdE7Olgtm3CdkyzgxTNEvQRpnpjSxF-0bk92Qs69WT4_AOnqlPGEXQw1EPIjFfagT5KOd1jhVck5m_HHF5p-40JJTw-LSMnzEjU8f4QUowgWSBEyOcQv4uRQ_CIvz74BVOcEh1fLXvpkFwYWH7NkC_3oFG0Szpsd5dsKsQqn1UNBOX4zsEULTTDtxLpgW_l4mYaaRkEtqB-ANJL0OjRIWFtc7zo8YRnjA4k8w8CdLKwTzMMOpitVFOQ_M_sn-NZmE-MhZe7jK53tSupRCJLW-4_obzybTHPoqsoT_sV9rvKLpaCUGO5kJTHoGE7aDeJO-XGogRc5UC7xB6u6wJzHBw9lznVvEmc2gMuFutYTCGLRzm7jH9oidJu8aydVIfwnM5ogYQw_mywKu3Ssj7G0dSqyYC8Y2r0hk0zEwxAJbBLv7W-z7hF3K6msTJcP7kfezpod_GAzoK6-eFQYG-eRdJox8nZbArljQUhsiHhrnWAjKScRUxLiuVlVFb35LHWDj7NDO_UeEpwZCC2e5w7N3sYFanoJwGsuRvIiVURcd1OLBn6U9Eq9ih1h7kfE89ZkcN9LOksHULEEZKYpFsfAoVfzOUf3hEQrDH0tJ6K5VdR7cUVugV5oVOzI8TRvn67wY7c9xrpq0QjUeFa4J5tqOuqJGUsx1k-Hp0DcxgNCzClj9P6BQ/1_jb1Y17gwQCRi2XCKy7_QHQ.png",
+                "original": "https://picasaweb.google.com/107685961467665190284/6869332652789020289?authkey=Gv1sRgCO2xx62_osmSzwE#6869332660252634306",
+                "parentId": "6869332652789020289",
+                "id": "6869332660252634306",
+                "service": "googlePhotos"
+              }
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "ViewDidLoad",
+              "id": "66.3a15.85b9b6d81-8109.26b20196f",
+              "ideas": {}
+            },
+            "2": {
+              "title": "viewWillLayoutSubviews",
+              "id": "68.3a15.85b9b6d81-8109.26b20196f"
+            },
+            "3": {
+              "title": "viewDidLayoutSubviews",
+              "id": "70.3a15.85b9b6d81-8109.26b20196f"
+            },
+            "4": {
+              "title": "didReceiveMemoryWarning",
+              "id": "71.3a15.85b9b6d81-8109.26b20196f"
+            },
+            "5": {
+              "title": "viewWillTransition",
+              "id": "72.3a15.85b9b6d81-8109.26b20196f",
+              "ideas": {
+                "1": {
+                  "title": "called when view size change",
+                  "id": "73.3a15.85b9b6d81-8109.26b20196f"
+                }
+              }
+            }
+          }
+        },
+        "-10": {
+          "title": "Local Storage",
+          "id": "41.3a15.85b9b6d81-8109.26b20196f",
+          "attr": {
+            "position": [
+              107,
+              -118,
+              5
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Core Data",
+              "id": "78.3a15.85b9b6d81-8109.26b20196f",
+              "ideas": {}
+            },
+            "2": {
+              "title": "User Default",
+              "id": "80.3a15.85b9b6d81-8109.26b20196f"
+            },
+            "3": {
+              "title": "Cache file",
+              "id": "81.3a15.85b9b6d81-8109.26b20196f"
+            }
+          }
+        },
+        "-5": {
+          "title": "Auto Layout",
+          "id": "40.3a15.85b9b6d81-8109.26b20196f",
+          "attr": {
+            "position": [
+              115,
+              -192,
+              4
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Size class",
+              "id": "100.3a15.85b9b6d81-8109.26b20196f"
+            },
+            "2": {
+              "title": "Priority",
+              "id": "101.3a15.85b9b6d81-8109.26b20196f"
+            },
+            "3": {
+              "title": "multiplier",
+              "id": "102.3a15.85b9b6d81-8109.26b20196f"
+            },
+            "4": {
+              "title": "constant",
+              "id": "103.3a15.85b9b6d81-8109.26b20196f"
+            }
+          }
+        },
+        "-11": {
+          "title": "App Life cycle",
+          "id": "45.3a15.85b9b6d81-8109.26b20196f",
+          "attr": {
+            "icon": {
+              "url": "https://lh3.googleusercontent.com/-Q6BkKJUG32A/X1TGm1hRvaI/AAAAAAAAAWQ/YcmgYyNu8D8a5KHZLY6okE3K5-bVoSqaACLcBGAsYHQ/1_K5xlyx74LWdXfJG_Iu2JZQ.png",
+              "width": 350,
+              "height": 367,
+              "position": "left",
+              "metaData": {
+                "remoteUrl": "https://lh3.googleusercontent.com/-Q6BkKJUG32A/X1TGm1hRvaI/AAAAAAAAAWQ/YcmgYyNu8D8a5KHZLY6okE3K5-bVoSqaACLcBGAsYHQ/1_K5xlyx74LWdXfJG_Iu2JZQ.png",
+                "original": "https://picasaweb.google.com/107685961467665190284/6869332652789020289?authkey=Gv1sRgCO2xx62_osmSzwE#6869333702150831522",
+                "parentId": "6869332652789020289",
+                "id": "6869333702150831522",
+                "service": "googlePhotos"
+              }
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Inactive is when another app come on top or app is about to come background",
+              "id": "74.3a15.85b9b6d81-8109.26b20196f"
+            },
+            "2": {
+              "title": "Suspended is when app in background for a time",
+              "id": "75.3a15.85b9b6d81-8109.26b20196f",
+              "ideas": {}
+            },
+            "3": {
+              "title": "App when in suspended will be killed any time with no notification",
+              "id": "105.3a15.85b9b6d81-8109.26b20196f"
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Swift Technology",
+  "links": []
+}
